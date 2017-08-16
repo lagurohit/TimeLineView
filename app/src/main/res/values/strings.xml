@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimeLineView</string>
+    <string name="expanded_text">Expanded text</string>
+    <string name="sample_text">sample text</string>
+</resources>

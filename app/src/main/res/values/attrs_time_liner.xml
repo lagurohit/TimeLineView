@@ -1,0 +1,11 @@
+<resources>
+    <declare-styleable name="timeLiner">
+        <attr name="firstElement" format="boolean" />
+        <attr name="lineColor" format="color" />
+        <attr name="lineWidth" format="dimension" />
+        <attr name="circleRadius" format="dimension" />
+        <attr name="leftPadding" format="dimension" />
+        <attr name="topPadding" format="dimension" />
+        <attr name="circleColor" format="color" />
+    </declare-styleable>
+</resources>
